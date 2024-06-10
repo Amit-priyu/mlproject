@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+-e .
+
+# what we want when requirements.txt will download, setup.py should also run... => -e .
